@@ -6,3 +6,16 @@ Medium green: #55c57a
 Dark green: #28b485
 
 */
+
+header {
+    height: 75vh;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+html {}
+
+body {}
